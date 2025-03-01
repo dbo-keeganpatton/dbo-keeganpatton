@@ -8,3 +8,7 @@ My passions lie in the more technical aspects of my work often veering towards a
 
 However at my core I am a life-long skateboarder, and often find parallels between that practice and other pursuits that I focus on.
 
+
+
+https://github.com/user-attachments/assets/b4b80920-3578-4e9d-b6ff-836ff6b5680e
+
