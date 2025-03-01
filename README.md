@@ -6,9 +6,5 @@ I am a Senior Data Analyst who works for a major retailer solving real-world pro
 ### Who am I?
 My passions lie in the more technical aspects of my work often veering towards application development and data engineering. In my personal pursuits I spend most of my time writing Python for data-centric projects, Next.JS/React for web development, and Go for some fun on the side!
 
-However at my core I am a life-long skateboarder, and often find parallels between that practice and other pursuits that I focus on.
-
-https://github.com/user-attachments/assets/2fb2e4f7-02ef-487c-b33e-0978092c3225
-
-
-
+However at my core I am a life-long skateboarder, and I often find parallels between that practice and other pursuits that I focus on.
+https://github.com/user-attachments/assets/5dd61025-3655-4b0e-924c-4bbd421c1a5f
