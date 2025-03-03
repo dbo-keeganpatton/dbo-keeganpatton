@@ -5,4 +5,10 @@ I am a [Senior Data Analyst](https://www.linkedin.com/in/keeganpatton/) working 
 
 However at my core I am a life-long skateboarder, and I often find parallels between that practice and other pursuits that I focus on. Feel free to [reach out to me](https://www.keeganpatton.dev/contact) so we can nerd out together!
 
-https://github.com/user-attachments/assets/5dd61025-3655-4b0e-924c-4bbd421c1a5f
+https://github.com/user-attachments/assets/ae340880-1c9f-4581-a348-03ba312514c4
+
+
+
+
+
+
